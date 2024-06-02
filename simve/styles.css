@@ -1,0 +1,40 @@
+/* Establecer el tamaño de la imagen del encabezado */
+.header-image {
+    max-width: 500px; /* Ancho máximo de la imagen */
+    width: 30%; /* Ajustar al ancho del contenedor padre */
+    height: auto; /* Mantener la proporción de aspecto */
+   margin: 0 auto;
+  }
+  /* Establecer el color de fondo para la sección */
+/* Establecer el color de fondo para la sección */
+/* Establecer el color de fondo para la sección */
+.banner1 {
+    background-color: rgba(0, 76, 64, 0.76);
+  }
+  
+  /* Establecer el color de fondo para el footer */
+.bg-footer {
+  background-color: rgba(07, 99, 66, 0.5); /* Verde claro */
+  padding: 20px 0; /* Espaciado interior superior e inferior */
+}
+
+/* Estilos para los enlaces */
+.bg-footer a {
+  color: #fff; /* Color del texto de los enlaces */
+}
+
+.bg-footer a:hover {
+  text-decoration: underline; /* Subrayar al pasar el mouse */
+}
+.whatsapp-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000; /* Asegura que esté sobre otros elementos */
+  }
+  
+  .whatsapp-icon {
+    width: 60px; /* Ajusta el tamaño del icono según tus necesidades */
+    height: auto;
+  }
+  
